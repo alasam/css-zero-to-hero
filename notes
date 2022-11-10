@@ -1,0 +1,17 @@
+What is CSS?
+- Cascading Style Sheet
+- Standard for styling websites
+- goes had in had with HTML
+
+How is CSS used?
+- css file saved in .css format
+- css selectors address parts of the page
+
+What is a selector?
+- ways to grab and manipulate HTML
+- many different types of selectors
+
+Selectors: 
+- Element: select entire elements without any special characters (ex. <div>, <p>, <h1>, etc)
+- Class Selector: select elements with a certain class name (ex. class="example", .example {})
+- ID Selector: same as class, but uses id instead (ex. id="example", #example {})
